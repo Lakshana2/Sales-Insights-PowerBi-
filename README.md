@@ -1,6 +1,7 @@
-# Sales-Insights-PowerBi-
+# Sales-Insights-PowerBi
 
 Title: Power BI Sales Analysis Dashboard
+
 Tools Used: Power BI, DAX, Data Modeling, Data Cleaning
 
 Description:
