@@ -9,14 +9,10 @@ This project presents an interactive Power BI dashboard that analyzes sales perf
 
 (<img width="918" height="671" alt="Screenshot 2025-07-30 232511" src="https://github.com/user-attachments/assets/45f6c06f-8a20-4075-a0ed-d3a031462768" />)
 
+<img width="1572" height="908" alt="REPORT 1" src="https://github.com/user-attachments/assets/30db081a-e499-40de-94c8-5054affdb016" />
 
-<img width="1572" height="908" alt="REPORT 1" src="https://github.com/user-attachments/assets/f931219a-6ce8-4c2b-bc16-f3bfd89dbe7e" />
+<img width="1550" height="889" alt="REPORT 2" src="https://github.com/user-attachments/assets/41b85f96-b6a1-4c32-8fd7-f34a8f8ba9bc" />
 
-<img width="1550" height="889" alt="REPORT 2" src="https://github.com/user-attachments/assets/42a1b671-b121-49e4-9763-52ce778b8836" />
+<img width="1552" height="896" alt="REPORT 3" src="https://github.com/user-attachments/assets/7fae3546-2315-4b0d-a36b-95c3208f5579" />
 
-<img width="1552" height="896" alt="REPORT 3" src="https://github.com/user-attachments/assets/ea15efdd-2bd3-4828-9ff7-f743e4ba6010" />
-
-<img width="1556" height="878" alt="REPORT4" src="https://github.com/user-attachments/assets/ba0c533d-a97b-4b66-968f-57194c18c11e" />
-
-
-
+<img width="1556" height="878" alt="REPORT4" src="https://github.com/user-attachments/assets/73469f97-d5ce-4442-aacd-745ea8c9d199" />
